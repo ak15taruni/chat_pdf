@@ -21,14 +21,4 @@ This is a Streamlit web application that allows users to upload PDF files, proce
 - **OpenAI / HuggingFace Embeddings** – for encoding text
 - **PyMuPDF (`fitz`)** – for PDF parsing
 
----
-
-## 📁 Project Structure
-pdf_project/
-│
-├── app.py # Main Streamlit app
-├── faiss_index/ # Saved FAISS index and metadata
-├── requirements.txt # Required Python packages
-├── utils.py # Optional: for helper functions
-└── README.md # This file
 
